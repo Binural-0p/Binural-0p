@@ -1,3 +1,4 @@
+![20220808_185951](https://user-images.githubusercontent.com/110116087/184173539-a2429eb0-3bcb-4315-9f96-52b62b7a6b03.png)
 - 👋 Hi, I’m @Binural-0p
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning 3d animation and coding
